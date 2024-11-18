@@ -26,7 +26,7 @@ dependencies {
     // bukkit stuff
 
     // fp stuff
-    implementation("io.vavr:vavr:0.10.4")
+    implementation("io.vavr:vavr:0.10.5")
 
     // wlz stuff
 }
